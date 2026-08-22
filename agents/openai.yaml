@@ -1,0 +1,3 @@
+interface:
+  display_name: "Analogue openFPGA Docs"
+  short_description: "Develop Analogue Pocket openFPGA cores"
